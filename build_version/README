@@ -1,0 +1,8 @@
+* Find builds of a product in a directtort sorted by version numbers
+* Usage :
+    virtualenv /tmp/myenv && source /tmp/myenv/bin/activate
+     pip install -r requirements.txt 
+     python version.py --source <sourcedir>
+   *TODO:
+       * Add test cases
+

@@ -1,0 +1,5 @@
+* Find all network interfaces on a machine and their ip in CIDR format
+* Usage:
+     virtualenv /tmp/myenv && source /tmp/myenv/bin/activate
+     pip install -r requirements.txt
+     python get_ip.py

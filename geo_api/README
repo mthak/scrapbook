@@ -1,0 +1,11 @@
+Get Earthquake data for a given state using the geojson
+
+*Usgae :
+     virtualenv /tmp/myenv && source /tmp/myenv/bin/activate
+     pip install -r requirements.txt
+     python get_geo.py --state <state-name>
+* TODO:
+  * Expose via rest pai using flask/bootle
+  * Create a Docker Container and deploy it as service
+
+
